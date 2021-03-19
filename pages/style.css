@@ -25,7 +25,7 @@ ul li a{
     transition: 0.6s ease;
 }
 ul li a:hover{
-    background-color: white;
+    background-color: green;
     color:black;
 }
 ul li.active a{
